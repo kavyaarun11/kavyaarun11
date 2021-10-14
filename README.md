@@ -5,3 +5,4 @@
 - 💬 Talk to me about software development, engineering, tech, and cool gadgets :) 
 - 📫 How to reach me: karun@uwaterloo.ca or connect with me on [Linkedin](https://www.linkedin.com/in/kavya-ar/)
 - ⚡ Interests: Dance, Travelling, Fitness, Movies, Making Music
+- 💻 Currently learning and working on blockchain + crypto projects
